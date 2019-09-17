@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: Java8-net/Java8-net.github.io
 github_url: https://github.com/Java8-net
 url: http://www.Java8-net.com
-enforce_ssl: Java8-net.com
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
